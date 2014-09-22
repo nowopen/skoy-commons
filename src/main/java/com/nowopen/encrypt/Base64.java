@@ -2,6 +2,7 @@ package com.nowopen.encrypt;
 
 /**
  * Created by admin@OYJ on 2014/9/18.
+ * test for github
  */
 public final class Base64 {
     private static final byte[] DECODE_TABLE = new byte[]
